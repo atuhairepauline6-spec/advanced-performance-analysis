@@ -14,7 +14,7 @@ export default function Navigation() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 font-bold text-lg">
           <div className="w-2 h-6 bg-gradient-to-b from-primary to-accent rounded-full"></div>
-          <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">AcademicPro</span>
+          <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Academic Performance Analysis</span>
         </Link>
 
         {/* Nav Links */}

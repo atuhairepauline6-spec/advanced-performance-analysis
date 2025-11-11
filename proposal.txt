@@ -19,7 +19,7 @@ Required Libraries
 NumPy: Internally used by Pandas For efficient statistical operations
 Matplotlib: For translating statistical data into visual reports like graphs, bar charts.
  The analysis will be carried in the sequential ways below;
-Data loading and structure. Load student score data with structured columns
+Data loading and structure. Load student score data with structured columnscd
 Subject level analysis. Iterate through subject columns, calculate descriptive analysis and present results showing distribution of scores of each subject.
 Overall student performance calculation. Calculate average score of each student, store it in a data frame which will be used for student ranking.
 Top performer identification. Find student with the highest average score and retrieve the student’s name
