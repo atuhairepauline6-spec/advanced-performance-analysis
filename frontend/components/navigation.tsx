@@ -17,7 +17,7 @@ export default function Navigation() {
           <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Academic Performance Analysis</span>
         </Link>
 
-        {/* Nav Links */}
+        {/* Nav Links vvvvv */}
         <div className="flex items-center gap-1 md:gap-2">
           <Link href="/">
             <Button variant="ghost" className={cn("text-sm font-medium", pathname === "/" && "bg-muted text-primary")}>

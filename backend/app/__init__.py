@@ -1,2 +1,2 @@
-# Make 'app' a package
+# Make 'app' a packagevvvv
 pass

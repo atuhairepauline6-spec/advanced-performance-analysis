@@ -16,7 +16,7 @@ A full-stack system to upload student scores (CSV/Excel) and analyze classroom p
 - Node.js 18+ (with PNPM or NPM)
 - PostgreSQL (local or Neon cloud)
 
-## Quick Start
+## Quick Start here
 - Backend:
   - Activate the virtual environment: `.\.venv\Scripts\Activate.ps1` (PowerShell) or `.\.venv\Scripts\activate.bat` (Cmd)
   - Install deps: `.\.venv\Scripts\pip.exe install -r backend\requirements.txt`
@@ -28,7 +28,7 @@ A full-stack system to upload student scores (CSV/Excel) and analyze classroom p
   - Install deps: `pnpm install` (or `npm install`)
   - Run dev server: `pnpm dev` (or `npm run dev`) and open `http://localhost:3000`
 
-## How To Use
+## How To Use system
 - Upload page:
   - Step 1: Download CSV template from the UI (headers: `student_name,math,science,english,history`)
   - Step 2: Fill in scores and upload the CSV (or Excel `.xlsx/.xls`)
